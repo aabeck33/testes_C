@@ -1,0 +1,15 @@
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\bin\Debug\net6.0\cs-helloworld.exe
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\bin\Debug\net6.0\cs-helloworld.deps.json
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\bin\Debug\net6.0\cs-helloworld.runtimeconfig.json
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\bin\Debug\net6.0\cs-helloworld.dll
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\bin\Debug\net6.0\cs-helloworld.pdb
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\obj\Debug\net6.0\cs-helloworld.csproj.AssemblyReference.cache
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\obj\Debug\net6.0\cs-helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\obj\Debug\net6.0\cs-helloworld.AssemblyInfoInputs.cache
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\obj\Debug\net6.0\cs-helloworld.AssemblyInfo.cs
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\obj\Debug\net6.0\cs-helloworld.csproj.CoreCompileInputs.cache
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\obj\Debug\net6.0\cs-helloworld.dll
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\obj\Debug\net6.0\refint\cs-helloworld.dll
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\obj\Debug\net6.0\cs-helloworld.pdb
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\obj\Debug\net6.0\cs-helloworld.genruntimeconfig.cache
+C:\Users\beck_\OneDrive\Documents\eclipse-workspace\cs-helloworld\obj\Debug\net6.0\ref\cs-helloworld.dll
